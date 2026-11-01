@@ -13,7 +13,9 @@ This repository contains beginner-friendly JavaScript learning examples and prom
 Install [Node.js](https://nodejs.org/) and run a JavaScript file from the repository root:
 
 ```sh
-node 02_JS_Keywords/Rules_of_Identifier.js
+node 02_JS_Keywords/Object.js
 ```
+
+`Object.js` demonstrates creating an object with properties and reading those properties with dot notation.
 
 The identifier examples demonstrate names that may start with a letter, `_`, or `$`, and may contain letters, digits, `_`, and `$` after the first character.
